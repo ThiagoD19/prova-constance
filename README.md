@@ -1,6 +1,7 @@
 ## Prova-PHP
 
-####Requisitos do servidor
+#### Requisitos do servidor
+   
     PHP >= 7.1.3
     OpenSSL PHP Extension
     PDO PHP Extension
@@ -12,7 +13,8 @@
     Composer
     Git
 
-####Instalação
+#### Instalação
+    
     Clone o repositório, [ git clone git@github.com:ThiagoD19/prova-php.git ] 
     Execute o comando 'composer install'
     Renomeie ou copie o arquivo '.env.example' para '.env'
